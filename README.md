@@ -1,5 +1,5 @@
 Everyone has a unique (blank) print, just like fingerprints.
- tongue
+ Tongue
  eyes
  nose
  ears
@@ -7,7 +7,7 @@ Everyone has a unique (blank) print, just like fingerprints.
  The loneliest creature on Earth is a (blank) who has been calling out for a mate for over two decades
  crocodile
  kangaroo
- whale
+ Whale
  turtle
 
   The first American film to show a toilet being flushed on screen was
@@ -21,7 +21,7 @@ Everyone has a unique (blank) print, just like fingerprints.
    corn
    coffee
    tea
-   urine
+   Urine
    tobacco
 
    Questions 

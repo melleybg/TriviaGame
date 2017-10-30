@@ -1,7 +1,46 @@
 body {
 
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3w17xbTfRsucqbbnF6A-DTPMZWvAe30UaFl15ORxuDqMkUUtCxQ");
-
+    background-color: rgba(242,	101,	60,	1);
     font-family: 'Noto Serif', serif;
-
+    text-align: center;
+    color: white;
   }
+
+  input {
+    cursor: pointer;
+  }
+
+  #start {
+    height: 100px;
+    width: 350px;
+    cursor: pointer;
+    border-radius: 50px;
+    margin-top: 250px;
+    background-color: white;
+    font-size: 25px;
+    font-style: bold;
+  }
+
+button:hover {
+    border: 3px solid black;
+  }
+
+  .next {
+    background-color: grey;
+    color: black;
+    height: 35px;
+    width: 100px;
+    cursor: pointer;
+  }
+
+
+.answers {
+  font-style: bold;
+  color: black;
+  font-size: 14px;
+  margin-top: 35px;
+}
+
+.page {
+  font-size: 30px;
+}
